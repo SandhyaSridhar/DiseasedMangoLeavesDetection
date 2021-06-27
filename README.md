@@ -13,8 +13,8 @@ The model has achieved an accuracy of 97.7%.
 
 And the training and validation plots are as follows.
 
-(https://github.com/SandhyaSridhar/DiseasedMangoLeavesDetection/blob/main/Training%20and%20Validation%20Accuracy.JPG)
-(https://github.com/SandhyaSridhar/DiseasedMangoLeavesDetection/blob/main/Training%20and%20Validation%20Loss.JPG)
+![Training and Validation Accuracy](https://github.com/SandhyaSridhar/DiseasedMangoLeavesDetection/blob/main/Training%20and%20Validation%20Accuracy.JPG)
+![Training and Validation Loss](https://github.com/SandhyaSridhar/DiseasedMangoLeavesDetection/blob/main/Training%20and%20Validation%20Loss.JPG)
 
 Secondly using ML classifiers like LR, KNN, SVM etc, feature extraction is initially done using pre-trained ResNet-50 model. And the following are the results obtained
 
