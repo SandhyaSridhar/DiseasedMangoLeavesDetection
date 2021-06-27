@@ -13,7 +13,7 @@ The model has achieved an accuracy of 97.7%.
 
 And the training and validation plots are as follows.
 
-![Training and Validation Accuracy](Training and Validation Accuracy.JPG
+![Training and Validation Accuracy](Training and Validation Accuracy.JPG)
 
 ![Training and Validation Loss]
 
