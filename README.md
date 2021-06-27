@@ -13,7 +13,9 @@ The model has achieved an accuracy of 97.7%.
 
 And the training and validation plots are as follows.
 
+![Training and Validation Accuracy](Training and Validation Accuracy.JPG
 
+![Training and Validation Loss]
 
 Secondly using ML classifiers like LR, KNN, SVM etc, feature extraction is initially done using pre-trained ResNet-50 model. And the following are the results obtained
 
