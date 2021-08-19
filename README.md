@@ -30,7 +30,7 @@ Secondly using ML classifiers like LR, KNN, SVM etc, feature extraction is initi
 
 
 ### Dataset
-I have made use of the Mango leaves dataset from Data Medely. You can access the dataset from this [link](https://data.mendeley.com/datasets/hb74ynkjcn/1)
+I have made use of the Mango leaves dataset from Data Mendeley. You can access the dataset from this [link](https://data.mendeley.com/datasets/hb74ynkjcn/1)
 
 #### References
 <a id="https://data.mendeley.com/datasets/hb74ynkjcn/1">[1]</a> 
